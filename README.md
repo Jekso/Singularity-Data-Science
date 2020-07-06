@@ -1,6 +1,6 @@
 # Singularity-Data-Science
 
-![CV](https://i.ibb.co/njs8npm/channel-wallpaper.jpg)
+![DS](https://i.ibb.co/4R05J2C/channel-wallpaper.jpg)
 
 > This Repository for Singularity Data Science Course Materials.
 
