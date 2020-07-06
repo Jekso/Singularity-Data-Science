@@ -1,0 +1,10 @@
+Task 1
+------------
+1) Open "01- Numpy" Folder.
+2) Solve "04 - Numpy Exercise.ipynb" notebook.
+
+
+Task 2
+------------
+1) Open "02- Pandas" Folder.
+2) Solve "11 - Ecommerce Purchases Exercise.ipynb" notebook.

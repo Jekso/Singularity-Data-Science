@@ -1,0 +1,30 @@
+Task 1
+------------
+1- Open "code" folder.
+2- Open "00-Object Oriented Programming" folder.
+3- Solve "02-Object Oriented Programming Homework.ipynb" notebook.
+
+
+
+Task 2
+------------
+1- Open "code" folder.
+2- Open "00-Object Oriented Programming" folder.
+3- Solve "04-OOP Challenge.ipynb" notebook.
+
+
+
+Task 3
+------------
+1- Open "code" folder.
+2- Open "01-Errors and Exceptions Handling" folder.
+3- Solve "02-Errors and Exceptions Homework.ipynb" notebook.
+
+
+
+
+Task 4
+------------
+1- Open "code" folder.
+2- Open "03-Python Generators" folder.
+3- Solve "01-Generators Homework.ipynb" notebook.

@@ -1,0 +1,2 @@
+Just install Anaconda Python version 3.7 from here
+https://www.anaconda.com/products/individual

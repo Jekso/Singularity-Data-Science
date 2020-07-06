@@ -1,0 +1,501 @@
+Date ordered,Order number,Brand,Size,Color,Design,Price,Delivery status
+2016-05-05,SDH-YU0,Yolo,L,red,spiral,14.47,damaged
+2016-05-06,SDH-YU1,Yolo,XXL,green,spiral,16.24,delayed
+2016-05-07,SDH-YU2,BLOT,XL,black,Stripes,14.32,delivered
+2016-05-08,SDH-YU3,Kent,XXL,green,plain,14.07,damaged
+2016-05-09,SDH-YU4,BUCK,XL,white,spiral,15.56,order received
+2016-05-10,SDH-YU5,BUCK,S,black,Stripes,15.38,delivered
+2016-05-11,SDH-YU6,BUCK,XS,red,diamond,14.43,delivered
+2016-05-12,SDH-YU7,Kent,S,white,checked,16.72,delivered
+2016-05-13,SDH-YU8,Kent,M,green,spiral,16.7,damaged
+2016-05-14,SDH-YU9,Wang,XL,purple,spiral,15.48,delayed
+2016-05-15,SDH-YU10,Yolo,XS,green,plain,14.36,shipping
+2016-05-16,SDH-YU11,BUCK,M,purple,diamond,14.56,order received
+2016-05-17,SDH-YU12,Yolo,L,white,spiral,14.89,delayed
+2016-05-18,SDH-YU13,Yolo,L,green,diamond,12.73,damaged
+2016-05-19,SDH-YU14,Wang,M,white,checked,14.99,shipping
+2016-05-20,SDH-YU15,Wang,XXL,red,plain,15.21,damaged
+2016-05-21,SDH-YU16,BLOT,XS,green,diamond,15.44,shipping
+2016-05-22,SDH-YU17,Wang,L,purple,checked,15.57,delayed
+2016-05-23,SDH-YU18,Wang,XS,green,checked,15.35,shipping
+2016-05-24,SDH-YU19,Yolo,XXL,red,spiral,15.59,delivered
+2016-05-25,SDH-YU20,BLOT,XL,white,Stripes,14.47,delayed
+2016-05-26,SDH-YU21,Wang,XS,purple,spiral,13.18,delivered
+2016-05-27,SDH-YU22,BLOT,XL,white,diamond,13.22,order received
+2016-05-28,SDH-YU23,Kent,S,purple,Stripes,16.03,order received
+2016-05-29,SDH-YU24,Yolo,XL,indigo,checked,14.12,shipping
+2016-05-30,SDH-YU25,Wang,XXL,green,plain,13.98,order received
+2016-05-31,SDH-YU26,Yolo,XL,indigo,Stripes,14.85,shipping
+2016-06-01,SDH-YU27,BLOT,M,purple,checked,15.28,delayed
+2016-06-02,SDH-YU28,Kent,XS,indigo,Stripes,15.43,damaged
+2016-06-03,SDH-YU29,BUCK,S,indigo,diamond,14.64,damaged
+2016-06-04,SDH-YU30,Wang,S,white,checked,14.84,shipping
+2016-06-05,SDH-YU31,Kent,M,indigo,spiral,15.86,shipping
+2016-06-06,SDH-YU32,Yolo,XS,black,plain,15.35,shipping
+2016-06-07,SDH-YU33,Kent,XS,black,diamond,13.71,shipping
+2016-06-08,SDH-YU34,BUCK,XL,green,Stripes,13.24,delivered
+2016-06-09,SDH-YU35,Wang,M,black,checked,14.76,shipping
+2016-06-10,SDH-YU36,BUCK,S,purple,plain,14.32,damaged
+2016-06-11,SDH-YU37,Kent,S,red,Stripes,13.84,shipping
+2016-06-12,SDH-YU38,Yolo,M,black,diamond,15.95,shipping
+2016-06-13,SDH-YU39,BUCK,M,green,checked,14.57,delivered
+2016-06-14,SDH-YU40,Kent,XS,indigo,diamond,13.629999999999999,shipping
+2016-06-15,SDH-YU41,BLOT,L,white,diamond,14.36,delayed
+2016-06-16,SDH-YU42,Wang,S,purple,diamond,15.1,damaged
+2016-06-17,SDH-YU43,Wang,S,green,spiral,14.26,damaged
+2016-06-18,SDH-YU44,Wang,M,black,diamond,15.47,order received
+2016-06-19,SDH-YU45,Yolo,M,green,Stripes,13.48,delayed
+2016-06-20,SDH-YU46,BLOT,L,green,plain,14.27,delayed
+2016-06-21,SDH-YU47,BUCK,M,green,checked,15.53,delayed
+2016-06-22,SDH-YU48,Yolo,XXL,white,diamond,15.5,order received
+2016-06-23,SDH-YU49,Kent,M,black,diamond,13.77,delivered
+2016-06-24,SDH-YU50,Yolo,XS,white,Stripes,16.29,damaged
+2016-06-25,SDH-YU51,BLOT,XXL,indigo,checked,14.2,shipping
+2016-06-26,SDH-YU52,BLOT,XXL,indigo,checked,14.6,shipping
+2016-06-27,SDH-YU53,Wang,M,black,checked,13.379999999999999,delayed
+2016-06-28,SDH-YU54,Kent,XXL,indigo,diamond,15.58,order received
+2016-06-29,SDH-YU55,Kent,XXL,black,spiral,15.23,damaged
+2016-06-30,SDH-YU56,Wang,XS,purple,Stripes,13.97,order received
+2016-07-01,SDH-YU57,Wang,XXL,red,Stripes,14.6,delayed
+2016-07-02,SDH-YU58,BLOT,XS,purple,spiral,15.37,damaged
+2016-07-03,SDH-YU59,BLOT,XL,black,plain,14.52,delivered
+2016-07-04,SDH-YU60,Yolo,XS,white,diamond,17.9,order received
+2016-07-05,SDH-YU61,Yolo,S,green,diamond,15.09,shipping
+2016-07-06,SDH-YU62,Kent,L,black,spiral,16.08,order received
+2016-07-07,SDH-YU63,BUCK,S,green,checked,15.7,delivered
+2016-07-08,SDH-YU64,Wang,XS,indigo,checked,14.43,delivered
+2016-07-09,SDH-YU65,Wang,XS,purple,spiral,13.34,order received
+2016-07-10,SDH-YU66,Yolo,M,black,Stripes,15.31,order received
+2016-07-11,SDH-YU67,Kent,S,purple,plain,16.06,damaged
+2016-07-12,SDH-YU68,BLOT,S,white,plain,14.2,delayed
+2016-07-13,SDH-YU69,BUCK,M,red,spiral,14.16,delivered
+2016-07-14,SDH-YU70,Yolo,S,white,plain,15.5,damaged
+2016-07-15,SDH-YU71,BLOT,XXL,purple,Stripes,14.09,shipping
+2016-07-16,SDH-YU72,Wang,XS,black,diamond,16.54,order received
+2016-07-17,SDH-YU73,Kent,M,indigo,spiral,14.39,shipping
+2016-07-18,SDH-YU74,Kent,M,black,plain,15.99,delayed
+2016-07-19,SDH-YU75,Wang,XS,purple,diamond,13.49,damaged
+2016-07-20,SDH-YU76,Wang,XXL,red,Stripes,14.11,shipping
+2016-07-21,SDH-YU77,BLOT,L,black,plain,13.61,order received
+2016-07-22,SDH-YU78,Yolo,M,red,checked,14.19,delayed
+2016-07-23,SDH-YU79,Yolo,XXL,white,diamond,16.38,damaged
+2016-07-24,SDH-YU80,Kent,L,white,checked,14.86,shipping
+2016-07-25,SDH-YU81,BLOT,S,indigo,checked,16.3,delivered
+2016-07-26,SDH-YU82,Yolo,XXL,green,plain,16.81,delayed
+2016-07-27,SDH-YU83,Kent,XS,indigo,spiral,12.92,damaged
+2016-07-28,SDH-YU84,Yolo,S,green,plain,15.16,order received
+2016-07-29,SDH-YU85,Wang,M,white,diamond,15.33,delayed
+2016-07-30,SDH-YU86,Kent,XL,indigo,diamond,15.02,shipping
+2016-07-31,SDH-YU87,Wang,XL,black,checked,15.8,delivered
+2016-08-01,SDH-YU88,Yolo,M,indigo,plain,15.24,delivered
+2016-08-02,SDH-YU89,Wang,L,green,Stripes,14.85,order received
+2016-08-03,SDH-YU90,Wang,S,white,plain,14.83,delivered
+2016-08-04,SDH-YU91,Yolo,XXL,purple,checked,15.27,order received
+2016-08-05,SDH-YU92,BLOT,S,green,Stripes,14.45,delivered
+2016-08-06,SDH-YU93,BUCK,XXL,green,Stripes,15.56,delivered
+2016-08-07,SDH-YU94,Wang,XXL,black,spiral,14.75,damaged
+2016-08-08,SDH-YU95,BUCK,XL,black,checked,13.45,shipping
+2016-08-09,SDH-YU96,BUCK,XS,red,Stripes,15.43,order received
+2016-08-10,SDH-YU97,BUCK,XXL,white,Stripes,14.51,delivered
+2016-08-11,SDH-YU98,Kent,XL,black,Stripes,14.43,delayed
+2016-08-12,SDH-YU99,Yolo,L,indigo,Stripes,14.25,delivered
+2016-08-13,SDH-YU100,Wang,XXL,indigo,diamond,15.45,shipping
+2016-08-14,SDH-YU101,Wang,S,white,checked,13.7,delayed
+2016-08-15,SDH-YU102,Wang,L,red,Stripes,15.44,shipping
+2016-08-16,SDH-YU103,Kent,M,green,Stripes,13.91,shipping
+2016-08-17,SDH-YU104,Kent,L,purple,plain,14.86,order received
+2016-08-18,SDH-YU105,Kent,XXL,indigo,checked,14.96,shipping
+2016-08-19,SDH-YU106,Kent,XS,purple,diamond,16.07,delayed
+2016-08-20,SDH-YU107,BLOT,S,red,checked,14.28,order received
+2016-08-21,SDH-YU108,Yolo,XXL,indigo,diamond,15.78,order received
+2016-08-22,SDH-YU109,BLOT,XL,red,spiral,14.68,shipping
+2016-08-23,SDH-YU110,BUCK,XXL,white,spiral,15.98,delivered
+2016-08-24,SDH-YU111,BUCK,M,red,checked,15.21,delivered
+2016-08-25,SDH-YU112,Yolo,M,purple,diamond,14.14,shipping
+2016-08-26,SDH-YU113,BLOT,L,red,Stripes,15.36,delayed
+2016-08-27,SDH-YU114,Wang,L,green,spiral,14.14,shipping
+2016-08-28,SDH-YU115,BUCK,XL,green,plain,14.37,delayed
+2016-08-29,SDH-YU116,BUCK,L,red,diamond,15.05,delivered
+2016-08-30,SDH-YU117,BUCK,S,purple,diamond,15.31,order received
+2016-08-31,SDH-YU118,Kent,S,green,Stripes,15.88,damaged
+2016-09-01,SDH-YU119,Yolo,XS,white,plain,16.59,delayed
+2016-09-02,SDH-YU120,Yolo,XS,white,Stripes,13.44,damaged
+2016-09-03,SDH-YU121,Yolo,L,indigo,checked,12.96,damaged
+2016-09-04,SDH-YU122,Wang,XL,red,Stripes,15.55,damaged
+2016-09-05,SDH-YU123,Yolo,XS,white,Stripes,15.03,order received
+2016-09-06,SDH-YU124,BLOT,L,red,Stripes,14.41,shipping
+2016-09-07,SDH-YU125,Yolo,XXL,black,Stripes,15.77,delivered
+2016-09-08,SDH-YU126,BUCK,XL,green,checked,12.92,shipping
+2016-09-09,SDH-YU127,BLOT,XL,black,checked,13.26,delayed
+2016-09-10,SDH-YU128,BUCK,XL,black,spiral,13.629999999999999,delivered
+2016-09-11,SDH-YU129,Kent,M,green,Stripes,15.31,shipping
+2016-09-12,SDH-YU130,Yolo,XXL,indigo,plain,15.43,delayed
+2016-09-13,SDH-YU131,Wang,S,green,diamond,17.61,delivered
+2016-09-14,SDH-YU132,Wang,XS,red,plain,16.0,delivered
+2016-09-15,SDH-YU133,Wang,XS,indigo,Stripes,14.67,delivered
+2016-09-16,SDH-YU134,Yolo,M,black,checked,15.44,delivered
+2016-09-17,SDH-YU135,BLOT,XXL,purple,spiral,15.92,delayed
+2016-09-18,SDH-YU136,BLOT,XS,indigo,spiral,14.97,shipping
+2016-09-19,SDH-YU137,Wang,XL,red,Stripes,14.17,delivered
+2016-09-20,SDH-YU138,BUCK,XL,black,Stripes,14.54,order received
+2016-09-21,SDH-YU139,Yolo,S,indigo,diamond,15.22,order received
+2016-09-22,SDH-YU140,BUCK,S,white,spiral,14.91,damaged
+2016-09-23,SDH-YU141,Yolo,L,red,diamond,13.83,order received
+2016-09-24,SDH-YU142,Wang,M,red,plain,15.32,order received
+2016-09-25,SDH-YU143,BUCK,XS,indigo,plain,12.86,delivered
+2016-09-26,SDH-YU144,BLOT,L,purple,diamond,15.0,order received
+2016-09-27,SDH-YU145,BLOT,XXL,white,Stripes,14.34,delayed
+2016-09-28,SDH-YU146,Yolo,L,indigo,checked,16.01,shipping
+2016-09-29,SDH-YU147,BUCK,L,purple,checked,14.86,delayed
+2016-09-30,SDH-YU148,Kent,S,purple,spiral,17.22,order received
+2016-10-01,SDH-YU149,BLOT,XXL,indigo,checked,13.79,order received
+2016-10-02,SDH-YU150,BUCK,XS,green,checked,15.03,delayed
+2016-10-03,SDH-YU151,BLOT,XXL,green,spiral,15.31,shipping
+2016-10-04,SDH-YU152,BUCK,XS,green,spiral,14.43,delayed
+2016-10-05,SDH-YU153,BLOT,L,white,diamond,15.49,shipping
+2016-10-06,SDH-YU154,BLOT,L,black,diamond,15.97,damaged
+2016-10-07,SDH-YU155,Wang,L,indigo,diamond,16.36,shipping
+2016-10-08,SDH-YU156,Wang,XXL,red,Stripes,16.25,delayed
+2016-10-09,SDH-YU157,Yolo,L,red,checked,14.5,order received
+2016-10-10,SDH-YU158,Wang,XS,black,plain,15.26,shipping
+2016-10-11,SDH-YU159,BLOT,M,red,diamond,14.61,order received
+2016-10-12,SDH-YU160,BUCK,S,green,spiral,13.35,delayed
+2016-10-13,SDH-YU161,Yolo,L,red,spiral,14.93,delivered
+2016-10-14,SDH-YU162,Kent,S,green,spiral,13.2,delivered
+2016-10-15,SDH-YU163,Wang,XL,green,Stripes,13.96,shipping
+2016-10-16,SDH-YU164,Wang,XL,red,checked,14.53,shipping
+2016-10-17,SDH-YU165,BUCK,L,indigo,diamond,15.58,shipping
+2016-10-18,SDH-YU166,Kent,XL,indigo,spiral,15.95,order received
+2016-10-19,SDH-YU167,Kent,M,red,checked,16.16,delivered
+2016-10-20,SDH-YU168,BLOT,XL,black,diamond,15.45,delivered
+2016-10-21,SDH-YU169,Kent,S,purple,Stripes,14.94,delivered
+2016-10-22,SDH-YU170,BUCK,L,indigo,plain,15.75,order received
+2016-10-23,SDH-YU171,Yolo,XXL,purple,Stripes,14.93,shipping
+2016-10-24,SDH-YU172,Kent,S,purple,diamond,14.51,order received
+2016-10-25,SDH-YU173,BLOT,XXL,purple,Stripes,14.64,shipping
+2016-10-26,SDH-YU174,BLOT,M,white,diamond,15.07,damaged
+2016-10-27,SDH-YU175,Wang,M,purple,diamond,17.08,order received
+2016-10-28,SDH-YU176,Wang,S,indigo,diamond,16.95,delivered
+2016-10-29,SDH-YU177,Wang,M,white,Stripes,15.97,delivered
+2016-10-30,SDH-YU178,Kent,XXL,indigo,Stripes,13.370000000000001,delayed
+2016-10-31,SDH-YU179,Yolo,XL,black,plain,15.48,order received
+2016-11-01,SDH-YU180,BLOT,L,indigo,spiral,16.75,delivered
+2016-11-02,SDH-YU181,Yolo,XXL,purple,spiral,14.48,delayed
+2016-11-03,SDH-YU182,BLOT,M,white,plain,12.81,delivered
+2016-11-04,SDH-YU183,BLOT,M,indigo,checked,15.28,delayed
+2016-11-05,SDH-YU184,Kent,M,purple,Stripes,15.11,delivered
+2016-11-06,SDH-YU185,Kent,S,purple,spiral,15.91,shipping
+2016-11-07,SDH-YU186,Wang,M,red,checked,14.87,order received
+2016-11-08,SDH-YU187,Wang,XXL,indigo,plain,12.74,delivered
+2016-11-09,SDH-YU188,BUCK,XL,green,Stripes,14.47,order received
+2016-11-10,SDH-YU189,Wang,XXL,white,spiral,14.74,delivered
+2016-11-11,SDH-YU190,Kent,XXL,red,plain,14.86,damaged
+2016-11-12,SDH-YU191,Kent,XL,green,checked,13.58,shipping
+2016-11-13,SDH-YU192,BUCK,M,indigo,Stripes,14.31,damaged
+2016-11-14,SDH-YU193,Wang,XS,white,checked,14.05,delivered
+2016-11-15,SDH-YU194,BUCK,XXL,indigo,diamond,14.23,delayed
+2016-11-16,SDH-YU195,Yolo,XS,green,diamond,14.2,delivered
+2016-11-17,SDH-YU196,BUCK,XXL,black,diamond,14.59,order received
+2016-11-18,SDH-YU197,Yolo,L,purple,plain,16.44,shipping
+2016-11-19,SDH-YU198,Kent,XXL,purple,Stripes,16.05,order received
+2016-11-20,SDH-YU199,BUCK,XS,indigo,diamond,12.879999999999999,delayed
+2016-11-21,SDH-YU200,Kent,S,red,plain,16.67,order received
+2016-11-22,SDH-YU201,Yolo,XL,indigo,checked,15.29,order received
+2016-11-23,SDH-YU202,BUCK,XS,green,diamond,15.37,delayed
+2016-11-24,SDH-YU203,Kent,XS,green,diamond,14.62,damaged
+2016-11-25,SDH-YU204,Wang,L,indigo,checked,13.97,delayed
+2016-11-26,SDH-YU205,Yolo,S,black,checked,14.18,shipping
+2016-11-27,SDH-YU206,Wang,XS,purple,diamond,14.14,order received
+2016-11-28,SDH-YU207,Wang,XXL,green,plain,14.13,order received
+2016-11-29,SDH-YU208,Wang,S,white,Stripes,13.73,order received
+2016-11-30,SDH-YU209,Yolo,XL,black,Stripes,15.63,delayed
+2016-12-01,SDH-YU210,Kent,S,red,plain,14.57,damaged
+2016-12-02,SDH-YU211,Yolo,S,purple,plain,16.61,shipping
+2016-12-03,SDH-YU212,Wang,M,black,spiral,13.76,order received
+2016-12-04,SDH-YU213,Wang,M,black,Stripes,13.08,delayed
+2016-12-05,SDH-YU214,BUCK,XXL,purple,checked,14.73,damaged
+2016-12-06,SDH-YU215,Wang,XXL,black,Stripes,14.58,delivered
+2016-12-07,SDH-YU216,Kent,M,green,diamond,13.86,order received
+2016-12-08,SDH-YU217,Kent,XXL,red,diamond,14.43,order received
+2016-12-09,SDH-YU218,Yolo,XXL,indigo,checked,16.07,damaged
+2016-12-10,SDH-YU219,Kent,XS,green,spiral,13.93,shipping
+2016-12-11,SDH-YU220,BUCK,S,green,checked,15.5,delivered
+2016-12-12,SDH-YU221,Wang,M,red,Stripes,14.39,shipping
+2016-12-13,SDH-YU222,Yolo,S,red,plain,15.21,delivered
+2016-12-14,SDH-YU223,Yolo,S,red,plain,15.04,delivered
+2016-12-15,SDH-YU224,Kent,XS,indigo,checked,15.28,damaged
+2016-12-16,SDH-YU225,BUCK,XL,indigo,checked,15.68,delivered
+2016-12-17,SDH-YU226,BUCK,XL,red,diamond,13.67,delayed
+2016-12-18,SDH-YU227,Wang,S,white,plain,17.44,shipping
+2016-12-19,SDH-YU228,Wang,M,white,checked,15.57,order received
+2016-12-20,SDH-YU229,BLOT,L,black,checked,13.75,delivered
+2016-12-21,SDH-YU230,Yolo,XS,green,plain,13.629999999999999,damaged
+2016-12-22,SDH-YU231,Yolo,XL,purple,spiral,15.4,delayed
+2016-12-23,SDH-YU232,Yolo,S,red,spiral,16.62,damaged
+2016-12-24,SDH-YU233,Kent,XL,red,diamond,16.13,delivered
+2016-12-25,SDH-YU234,Kent,S,indigo,spiral,16.01,order received
+2016-12-26,SDH-YU235,Wang,XS,green,diamond,12.95,shipping
+2016-12-27,SDH-YU236,BUCK,L,black,diamond,13.98,damaged
+2016-12-28,SDH-YU237,BLOT,XS,white,diamond,16.37,damaged
+2016-12-29,SDH-YU238,Wang,XL,red,checked,14.9,delayed
+2016-12-30,SDH-YU239,BLOT,XS,black,spiral,14.35,damaged
+2016-12-31,SDH-YU240,BUCK,XL,black,diamond,14.73,order received
+2017-01-01,SDH-YU241,Kent,XXL,purple,diamond,16.01,shipping
+2017-01-02,SDH-YU242,Yolo,L,indigo,Stripes,14.52,delayed
+2017-01-03,SDH-YU243,Wang,M,green,checked,15.32,damaged
+2017-01-04,SDH-YU244,Yolo,XS,purple,spiral,14.86,damaged
+2017-01-05,SDH-YU245,BUCK,M,red,Stripes,13.89,delivered
+2017-01-06,SDH-YU246,BUCK,XL,red,spiral,15.13,damaged
+2017-01-07,SDH-YU247,Wang,L,red,Stripes,14.47,delayed
+2017-01-08,SDH-YU248,BUCK,M,green,checked,15.1,delayed
+2017-01-09,SDH-YU249,Wang,S,white,spiral,14.02,shipping
+2017-01-10,SDH-YU250,Kent,M,indigo,checked,15.24,delayed
+2017-01-11,SDH-YU251,BUCK,XS,white,Stripes,16.05,delayed
+2017-01-12,SDH-YU252,Yolo,XXL,red,Stripes,14.57,order received
+2017-01-13,SDH-YU253,BUCK,XXL,white,Stripes,17.29,order received
+2017-01-14,SDH-YU254,BLOT,XXL,purple,spiral,15.9,damaged
+2017-01-15,SDH-YU255,Wang,L,green,Stripes,16.17,order received
+2017-01-16,SDH-YU256,Wang,M,white,Stripes,16.24,damaged
+2017-01-17,SDH-YU257,Yolo,XL,white,Stripes,15.36,delivered
+2017-01-18,SDH-YU258,Wang,XS,indigo,spiral,14.17,damaged
+2017-01-19,SDH-YU259,Yolo,L,green,Stripes,14.03,delayed
+2017-01-20,SDH-YU260,Yolo,S,black,plain,15.3,shipping
+2017-01-21,SDH-YU261,BLOT,XL,indigo,diamond,15.27,damaged
+2017-01-22,SDH-YU262,Yolo,XXL,indigo,checked,16.3,delivered
+2017-01-23,SDH-YU263,Yolo,L,red,Stripes,15.39,order received
+2017-01-24,SDH-YU264,BUCK,XL,green,checked,14.29,damaged
+2017-01-25,SDH-YU265,Wang,XS,black,Stripes,14.69,shipping
+2017-01-26,SDH-YU266,BUCK,XS,indigo,Stripes,14.02,delayed
+2017-01-27,SDH-YU267,Kent,S,black,diamond,17.07,damaged
+2017-01-28,SDH-YU268,Kent,XXL,purple,Stripes,14.58,order received
+2017-01-29,SDH-YU269,Wang,S,black,checked,16.79,order received
+2017-01-30,SDH-YU270,Yolo,L,indigo,checked,15.81,damaged
+2017-01-31,SDH-YU271,BUCK,S,green,plain,14.78,delayed
+2017-02-01,SDH-YU272,Kent,XXL,white,diamond,16.04,delayed
+2017-02-02,SDH-YU273,Yolo,XXL,green,diamond,17.4,delayed
+2017-02-03,SDH-YU274,BLOT,XS,green,checked,13.02,delayed
+2017-02-04,SDH-YU275,Yolo,XL,green,Stripes,15.29,damaged
+2017-02-05,SDH-YU276,Kent,L,red,Stripes,14.67,damaged
+2017-02-06,SDH-YU277,Yolo,L,indigo,diamond,13.36,order received
+2017-02-07,SDH-YU278,BLOT,L,red,checked,16.71,shipping
+2017-02-08,SDH-YU279,Wang,L,purple,spiral,14.51,damaged
+2017-02-09,SDH-YU280,BUCK,L,black,diamond,16.57,shipping
+2017-02-10,SDH-YU281,BUCK,L,black,plain,15.62,shipping
+2017-02-11,SDH-YU282,Kent,XL,indigo,diamond,15.45,damaged
+2017-02-12,SDH-YU283,Yolo,XXL,white,Stripes,13.9,delayed
+2017-02-13,SDH-YU284,BUCK,XL,red,checked,14.67,delivered
+2017-02-14,SDH-YU285,Wang,M,black,checked,14.88,damaged
+2017-02-15,SDH-YU286,Kent,XXL,black,diamond,15.8,shipping
+2017-02-16,SDH-YU287,BLOT,M,red,Stripes,14.69,delivered
+2017-02-17,SDH-YU288,Kent,XL,red,spiral,16.33,shipping
+2017-02-18,SDH-YU289,BUCK,XS,green,spiral,13.03,order received
+2017-02-19,SDH-YU290,BUCK,XXL,white,Stripes,15.12,shipping
+2017-02-20,SDH-YU291,Wang,XS,red,spiral,14.18,shipping
+2017-02-21,SDH-YU292,Yolo,L,purple,checked,14.73,damaged
+2017-02-22,SDH-YU293,BUCK,XL,indigo,checked,14.79,order received
+2017-02-23,SDH-YU294,Wang,S,indigo,diamond,17.09,damaged
+2017-02-24,SDH-YU295,BUCK,XS,indigo,spiral,15.81,delivered
+2017-02-25,SDH-YU296,BUCK,XS,indigo,plain,15.9,shipping
+2017-02-26,SDH-YU297,Kent,XXL,green,plain,14.16,delivered
+2017-02-27,SDH-YU298,Kent,XXL,red,checked,17.2,delayed
+2017-02-28,SDH-YU299,Yolo,XXL,purple,plain,14.32,delayed
+2017-03-01,SDH-YU300,Yolo,S,purple,plain,14.98,damaged
+2017-03-02,SDH-YU301,BUCK,XL,indigo,spiral,14.31,shipping
+2017-03-03,SDH-YU302,Kent,XL,indigo,diamond,14.56,delayed
+2017-03-04,SDH-YU303,Kent,M,indigo,Stripes,13.44,delivered
+2017-03-05,SDH-YU304,Kent,S,purple,plain,14.76,order received
+2017-03-06,SDH-YU305,BUCK,M,green,plain,15.87,damaged
+2017-03-07,SDH-YU306,Yolo,M,green,diamond,14.94,order received
+2017-03-08,SDH-YU307,Kent,S,green,diamond,15.08,shipping
+2017-03-09,SDH-YU308,BUCK,S,green,checked,14.87,order received
+2017-03-10,SDH-YU309,BUCK,S,indigo,spiral,15.86,delivered
+2017-03-11,SDH-YU310,Wang,M,black,spiral,14.66,delayed
+2017-03-12,SDH-YU311,BLOT,XL,white,diamond,14.2,order received
+2017-03-13,SDH-YU312,BUCK,XXL,red,diamond,15.33,damaged
+2017-03-14,SDH-YU313,BUCK,XL,green,diamond,14.69,shipping
+2017-03-15,SDH-YU314,BUCK,M,green,diamond,16.41,delivered
+2017-03-16,SDH-YU315,BUCK,XXL,black,plain,16.05,order received
+2017-03-17,SDH-YU316,BLOT,XS,red,checked,14.82,delivered
+2017-03-18,SDH-YU317,Kent,M,purple,Stripes,14.46,shipping
+2017-03-19,SDH-YU318,Yolo,XXL,green,checked,16.16,order received
+2017-03-20,SDH-YU319,Kent,S,red,plain,15.24,delivered
+2017-03-21,SDH-YU320,BUCK,XXL,purple,checked,14.36,delayed
+2017-03-22,SDH-YU321,Yolo,L,black,diamond,14.49,delivered
+2017-03-23,SDH-YU322,Kent,XXL,white,plain,17.2,delivered
+2017-03-24,SDH-YU323,BUCK,M,purple,diamond,15.72,delivered
+2017-03-25,SDH-YU324,BUCK,XS,red,plain,14.6,damaged
+2017-03-26,SDH-YU325,Kent,M,white,diamond,15.96,shipping
+2017-03-27,SDH-YU326,BLOT,S,black,plain,14.09,shipping
+2017-03-28,SDH-YU327,Yolo,L,white,plain,15.95,delivered
+2017-03-29,SDH-YU328,Kent,XL,red,spiral,14.49,damaged
+2017-03-30,SDH-YU329,Yolo,L,white,checked,15.25,damaged
+2017-03-31,SDH-YU330,Wang,S,indigo,spiral,15.3,damaged
+2017-04-01,SDH-YU331,Wang,M,white,checked,16.01,delayed
+2017-04-02,SDH-YU332,Yolo,S,red,spiral,15.22,shipping
+2017-04-03,SDH-YU333,Yolo,M,black,checked,15.18,order received
+2017-04-04,SDH-YU334,BLOT,XS,black,checked,13.870000000000001,delayed
+2017-04-05,SDH-YU335,Yolo,XL,indigo,checked,15.55,damaged
+2017-04-06,SDH-YU336,Wang,M,green,Stripes,14.22,order received
+2017-04-07,SDH-YU337,BUCK,XXL,indigo,plain,15.26,delayed
+2017-04-08,SDH-YU338,Wang,XXL,indigo,Stripes,16.2,delayed
+2017-04-09,SDH-YU339,BLOT,XL,indigo,plain,15.5,order received
+2017-04-10,SDH-YU340,Kent,XS,purple,checked,16.17,shipping
+2017-04-11,SDH-YU341,Kent,M,red,Stripes,14.55,damaged
+2017-04-12,SDH-YU342,Yolo,L,purple,plain,14.14,delivered
+2017-04-13,SDH-YU343,Wang,XXL,red,diamond,13.97,damaged
+2017-04-14,SDH-YU344,Kent,M,red,diamond,15.98,shipping
+2017-04-15,SDH-YU345,Wang,S,red,checked,15.66,delayed
+2017-04-16,SDH-YU346,Kent,S,indigo,diamond,14.24,order received
+2017-04-17,SDH-YU347,BLOT,S,green,diamond,13.629999999999999,delayed
+2017-04-18,SDH-YU348,BUCK,XL,indigo,plain,15.58,delayed
+2017-04-19,SDH-YU349,Kent,XS,green,Stripes,15.12,order received
+2017-04-20,SDH-YU350,Kent,XL,purple,Stripes,15.29,delivered
+2017-04-21,SDH-YU351,BUCK,S,purple,diamond,17.09,delivered
+2017-04-22,SDH-YU352,Wang,XL,red,spiral,14.68,damaged
+2017-04-23,SDH-YU353,Yolo,XL,purple,diamond,15.11,delayed
+2017-04-24,SDH-YU354,Yolo,XL,indigo,Stripes,15.19,delayed
+2017-04-25,SDH-YU355,Yolo,L,purple,spiral,16.82,shipping
+2017-04-26,SDH-YU356,Kent,S,white,spiral,15.29,delayed
+2017-04-27,SDH-YU357,Kent,XS,green,spiral,15.99,delivered
+2017-04-28,SDH-YU358,BUCK,M,green,diamond,15.33,delivered
+2017-04-29,SDH-YU359,Yolo,L,indigo,Stripes,13.51,damaged
+2017-04-30,SDH-YU360,BLOT,XS,black,checked,15.04,damaged
+2017-05-01,SDH-YU361,BLOT,S,green,Stripes,15.54,order received
+2017-05-02,SDH-YU362,Kent,L,red,plain,15.84,damaged
+2017-05-03,SDH-YU363,BUCK,XL,purple,diamond,12.24,damaged
+2017-05-04,SDH-YU364,BLOT,L,indigo,diamond,14.28,order received
+2017-05-05,SDH-YU365,Kent,M,black,plain,15.36,delivered
+2017-05-06,SDH-YU366,BUCK,S,purple,Stripes,15.59,damaged
+2017-05-07,SDH-YU367,Kent,XXL,green,diamond,15.03,delayed
+2017-05-08,SDH-YU368,Wang,S,green,checked,14.58,order received
+2017-05-09,SDH-YU369,BLOT,L,indigo,diamond,13.879999999999999,delivered
+2017-05-10,SDH-YU370,Kent,L,purple,spiral,16.56,damaged
+2017-05-11,SDH-YU371,Kent,XL,purple,spiral,15.55,delayed
+2017-05-12,SDH-YU372,Yolo,XL,green,plain,15.91,delivered
+2017-05-13,SDH-YU373,Kent,XXL,green,checked,15.09,damaged
+2017-05-14,SDH-YU374,Kent,L,black,diamond,16.84,shipping
+2017-05-15,SDH-YU375,BUCK,XS,purple,checked,15.37,delayed
+2017-05-16,SDH-YU376,Yolo,M,green,Stripes,14.94,delayed
+2017-05-17,SDH-YU377,Yolo,XXL,green,plain,14.43,delivered
+2017-05-18,SDH-YU378,BLOT,S,green,Stripes,14.73,order received
+2017-05-19,SDH-YU379,Yolo,M,black,diamond,16.08,damaged
+2017-05-20,SDH-YU380,BUCK,S,indigo,diamond,14.07,order received
+2017-05-21,SDH-YU381,BLOT,S,indigo,checked,14.41,shipping
+2017-05-22,SDH-YU382,Kent,XS,green,checked,15.2,damaged
+2017-05-23,SDH-YU383,Kent,L,green,Stripes,15.53,delayed
+2017-05-24,SDH-YU384,Yolo,L,black,plain,14.95,order received
+2017-05-25,SDH-YU385,Yolo,S,green,spiral,14.3,damaged
+2017-05-26,SDH-YU386,BUCK,XL,purple,diamond,14.08,delayed
+2017-05-27,SDH-YU387,Kent,XXL,white,checked,16.23,delayed
+2017-05-28,SDH-YU388,Kent,XL,black,checked,14.4,damaged
+2017-05-29,SDH-YU389,Wang,L,purple,diamond,14.57,order received
+2017-05-30,SDH-YU390,Yolo,M,green,diamond,14.17,order received
+2017-05-31,SDH-YU391,Wang,XS,red,checked,14.96,shipping
+2017-06-01,SDH-YU392,Kent,XS,red,diamond,13.04,shipping
+2017-06-02,SDH-YU393,Yolo,XS,green,diamond,13.17,shipping
+2017-06-03,SDH-YU394,Kent,XS,red,diamond,14.27,shipping
+2017-06-04,SDH-YU395,BUCK,XXL,white,diamond,16.84,order received
+2017-06-05,SDH-YU396,BUCK,L,green,checked,17.009999999999998,shipping
+2017-06-06,SDH-YU397,BLOT,S,red,plain,14.69,order received
+2017-06-07,SDH-YU398,BLOT,S,purple,plain,14.6,order received
+2017-06-08,SDH-YU399,Wang,XS,black,spiral,14.74,delayed
+2017-06-09,SDH-YU400,BLOT,M,indigo,plain,16.08,order received
+2017-06-10,SDH-YU401,Yolo,XXL,white,checked,16.03,damaged
+2017-06-11,SDH-YU402,Yolo,XXL,white,plain,15.89,damaged
+2017-06-12,SDH-YU403,Wang,XL,purple,checked,16.74,damaged
+2017-06-13,SDH-YU404,BLOT,XS,purple,checked,15.01,delayed
+2017-06-14,SDH-YU405,Wang,XS,green,plain,15.82,delivered
+2017-06-15,SDH-YU406,Yolo,M,green,diamond,15.4,order received
+2017-06-16,SDH-YU407,BLOT,XXL,white,Stripes,14.36,order received
+2017-06-17,SDH-YU408,BUCK,XXL,white,diamond,15.42,delivered
+2017-06-18,SDH-YU409,Wang,L,purple,checked,15.27,shipping
+2017-06-19,SDH-YU410,Kent,L,green,plain,14.2,damaged
+2017-06-20,SDH-YU411,BUCK,XS,white,Stripes,15.3,delayed
+2017-06-21,SDH-YU412,BUCK,M,green,spiral,15.38,damaged
+2017-06-22,SDH-YU413,Kent,S,green,plain,15.68,shipping
+2017-06-23,SDH-YU414,Yolo,XL,indigo,Stripes,13.91,order received
+2017-06-24,SDH-YU415,BLOT,XL,red,Stripes,18.03,shipping
+2017-06-25,SDH-YU416,BUCK,XS,white,diamond,16.14,order received
+2017-06-26,SDH-YU417,Yolo,XXL,indigo,plain,13.8,delivered
+2017-06-27,SDH-YU418,Yolo,XS,purple,spiral,14.14,shipping
+2017-06-28,SDH-YU419,Wang,XL,green,checked,14.27,damaged
+2017-06-29,SDH-YU420,BUCK,XS,white,Stripes,16.14,damaged
+2017-06-30,SDH-YU421,BUCK,XS,black,checked,14.63,delayed
+2017-07-01,SDH-YU422,Yolo,S,black,checked,17.52,shipping
+2017-07-02,SDH-YU423,Yolo,XS,green,diamond,14.48,delivered
+2017-07-03,SDH-YU424,Wang,S,red,spiral,15.26,shipping
+2017-07-04,SDH-YU425,Kent,M,purple,checked,15.0,delayed
+2017-07-05,SDH-YU426,Yolo,S,purple,diamond,17.490000000000002,delivered
+2017-07-06,SDH-YU427,Kent,XL,red,Stripes,15.39,damaged
+2017-07-07,SDH-YU428,Wang,L,black,plain,14.22,shipping
+2017-07-08,SDH-YU429,BUCK,S,indigo,diamond,16.27,delayed
+2017-07-09,SDH-YU430,Yolo,S,black,spiral,15.17,order received
+2017-07-10,SDH-YU431,Kent,XXL,white,checked,13.78,delivered
+2017-07-11,SDH-YU432,Kent,XS,red,spiral,15.41,delayed
+2017-07-12,SDH-YU433,BLOT,M,purple,diamond,15.91,delayed
+2017-07-13,SDH-YU434,Kent,XS,green,checked,14.3,order received
+2017-07-14,SDH-YU435,BUCK,XL,green,diamond,13.53,delivered
+2017-07-15,SDH-YU436,BLOT,XL,indigo,diamond,16.64,damaged
+2017-07-16,SDH-YU437,Wang,S,white,Stripes,15.35,delivered
+2017-07-17,SDH-YU438,Yolo,M,indigo,spiral,14.19,delivered
+2017-07-18,SDH-YU439,BLOT,XL,red,diamond,13.31,delayed
+2017-07-19,SDH-YU440,Wang,L,indigo,spiral,15.22,delayed
+2017-07-20,SDH-YU441,Yolo,XS,green,spiral,14.53,damaged
+2017-07-21,SDH-YU442,Wang,XXL,black,spiral,13.48,delayed
+2017-07-22,SDH-YU443,Yolo,XXL,indigo,spiral,14.28,delivered
+2017-07-23,SDH-YU444,BLOT,L,white,Stripes,13.68,order received
+2017-07-24,SDH-YU445,BUCK,XL,white,checked,15.87,shipping
+2017-07-25,SDH-YU446,Wang,M,purple,spiral,15.2,delivered
+2017-07-26,SDH-YU447,BLOT,L,green,Stripes,14.17,shipping
+2017-07-27,SDH-YU448,Wang,XL,red,plain,14.97,delayed
+2017-07-28,SDH-YU449,Kent,XXL,purple,Stripes,15.9,delayed
+2017-07-29,SDH-YU450,Kent,L,white,checked,14.83,delivered
+2017-07-30,SDH-YU451,BUCK,XXL,indigo,checked,14.28,shipping
+2017-07-31,SDH-YU452,Wang,S,black,Stripes,14.73,delivered
+2017-08-01,SDH-YU453,BLOT,M,green,diamond,16.04,delivered
+2017-08-02,SDH-YU454,Kent,L,indigo,spiral,15.01,order received
+2017-08-03,SDH-YU455,BUCK,XXL,indigo,plain,14.88,damaged
+2017-08-04,SDH-YU456,Yolo,M,white,Stripes,14.94,damaged
+2017-08-05,SDH-YU457,BLOT,XXL,purple,Stripes,15.53,delayed
+2017-08-06,SDH-YU458,Kent,S,white,Stripes,14.89,damaged
+2017-08-07,SDH-YU459,BUCK,L,white,diamond,13.75,order received
+2017-08-08,SDH-YU460,BLOT,L,white,plain,16.49,order received
+2017-08-09,SDH-YU461,BLOT,XS,white,spiral,14.88,damaged
+2017-08-10,SDH-YU462,Kent,XS,indigo,Stripes,17.61,order received
+2017-08-11,SDH-YU463,BUCK,XS,indigo,diamond,14.62,delivered
+2017-08-12,SDH-YU464,BUCK,XS,white,spiral,17.35,delayed
+2017-08-13,SDH-YU465,Kent,L,green,spiral,17.58,order received
+2017-08-14,SDH-YU466,BLOT,M,green,checked,16.16,shipping
+2017-08-15,SDH-YU467,BLOT,XS,green,checked,15.61,delivered
+2017-08-16,SDH-YU468,Yolo,M,black,Stripes,15.43,shipping
+2017-08-17,SDH-YU469,BUCK,XS,green,plain,15.04,damaged
+2017-08-18,SDH-YU470,BLOT,XL,red,spiral,15.88,delivered
+2017-08-19,SDH-YU471,Wang,M,purple,checked,14.64,damaged
+2017-08-20,SDH-YU472,Wang,XXL,purple,spiral,16.65,shipping
+2017-08-21,SDH-YU473,Yolo,M,white,Stripes,14.99,damaged
+2017-08-22,SDH-YU474,BUCK,S,indigo,checked,15.57,shipping
+2017-08-23,SDH-YU475,Yolo,XXL,white,diamond,14.79,damaged
+2017-08-24,SDH-YU476,Kent,XXL,black,Stripes,15.25,order received
+2017-08-25,SDH-YU477,BUCK,L,green,checked,13.19,shipping
+2017-08-26,SDH-YU478,Kent,XXL,white,spiral,15.85,order received
+2017-08-27,SDH-YU479,BUCK,S,green,diamond,13.91,order received
+2017-08-28,SDH-YU480,Wang,XXL,green,spiral,15.16,order received
+2017-08-29,SDH-YU481,Yolo,XS,black,checked,14.67,delayed
+2017-08-30,SDH-YU482,Wang,S,purple,checked,13.6,shipping
+2017-08-31,SDH-YU483,Wang,S,purple,plain,14.52,shipping
+2017-09-01,SDH-YU484,Kent,XS,white,checked,14.51,order received
+2017-09-02,SDH-YU485,BLOT,M,black,spiral,16.91,shipping
+2017-09-03,SDH-YU486,BLOT,XXL,green,spiral,13.94,shipping
+2017-09-04,SDH-YU487,Kent,L,red,diamond,16.44,order received
+2017-09-05,SDH-YU488,BUCK,XS,black,plain,13.47,damaged
+2017-09-06,SDH-YU489,BUCK,M,black,Stripes,13.95,damaged
+2017-09-07,SDH-YU490,Wang,XXL,black,Stripes,15.87,order received
+2017-09-08,SDH-YU491,Wang,S,red,plain,14.04,delayed
+2017-09-09,SDH-YU492,BUCK,XXL,green,diamond,13.98,order received
+2017-09-10,SDH-YU493,BUCK,XXL,black,spiral,16.34,damaged
+2017-09-11,SDH-YU494,Kent,XS,black,diamond,15.24,damaged
+2017-09-12,SDH-YU495,Wang,XS,green,diamond,15.03,damaged
+2017-09-13,SDH-YU496,BUCK,M,black,Stripes,14.49,shipping
+2017-09-14,SDH-YU497,Kent,XXL,purple,plain,15.61,shipping
+2017-09-15,SDH-YU498,Yolo,S,red,plain,13.49,order received
+2017-09-16,SDH-YU499,BLOT,S,black,spiral,14.75,shipping

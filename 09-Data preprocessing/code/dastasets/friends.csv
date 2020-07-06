@@ -1,0 +1,11 @@
+fname|lname|age_sex|section|height(cm)|weight(kg)|age|spend_A|spend_B|spend_C
+Rahul|Pandey|37_M|B|175.4|85.6|37|1500|200|300
+Rakesh|Kumar|38_M|B|NaN|xx|38|NaN|1000|NaN
+Nitesh|Mondol|35_F|B|165.1|?|35|500|-100|200
+Arvind|Dwivedi|40_M|A|0|55.6|40|300|300|NaN
+Nikhil|Shikharwar|39_M|B|160.8|160|39|200|NaN|300
+Ashutosh|Merothiya|36_M|A|xx|-60|36|100|400|NaN
+Shubhro|Das|35_F|C|170.3|75.5|35|NaN|500|500
+Suvendu|Das|34_M|C|155.1|56.8|34|1000|100|xx
+Swadesh|Kumar|36_M|C|154.2|60.6|36|100|200|300
+Arun|Vishwakarma|38_F|A|162.1|58.7|38|600|200|200
