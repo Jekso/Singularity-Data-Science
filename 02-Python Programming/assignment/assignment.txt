@@ -1,6 +1,6 @@
 There are 7 tasks
 
-1) Create a jupyter notebook and write a code to output the circumference of the circle & rectangle.
+1) Create 2 jupyter notebooks and write a code to output the circumference of the circle in one notebook and another for a rectangle.
 
 
 2.1) Solve the Python Data types Task
