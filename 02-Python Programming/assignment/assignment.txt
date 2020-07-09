@@ -29,10 +29,10 @@ There are 7 tasks
 	4- Solve 06-Functions and Methods Homework.ipynb file.
 
 
-5) Make project like with Thanos project data (50 images) to read all files and rename these files with random names.
+5) Make project like Thanos project with data (50 images) to read all files and rename these files with random names.
 
 
-6) Make 2 packages first one called Transformers and second one called Operations in StringTransformers make a module called StringOperations that has 2 functions one to reverse a string and second one to capitlize a string, and in the Operations package make one module called Math that has 2 functions min and max to get the min and max of list values, then make a notebook to sue those functions.
+6) Make 2 packages first one called Transformers and second one called Operations in Transformers package make a module called StringTransformer that has 2 functions one to reverse a string and second one to capitalize a string, and in the Operations package make one module called Math that has 2 functions get_average to get average of list values, then make a notebook to use these functions.
 
 
 7) Make a project to calculate the sum of the prime numbers from 2 to 1000 with step of two.

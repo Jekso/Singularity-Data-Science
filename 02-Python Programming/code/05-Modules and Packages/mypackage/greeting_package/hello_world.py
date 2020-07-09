@@ -1,2 +1,2 @@
 def i_welcome_u(name):
-	print('welcome ' + name)
+	print(f'welcome {name}')
