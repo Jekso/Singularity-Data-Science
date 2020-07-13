@@ -26,5 +26,5 @@ Task 3
 Task 4
 ------------
 1- Open "code" folder.
-2- Open "03-Python Generators" folder.
-3- Solve "01-Generators Homework.ipynb" notebook.
+2- Open "03-Python Iterators and Generators" folder.
+3- Solve "01-Iterators and Generators Homework.ipynb" notebook.
