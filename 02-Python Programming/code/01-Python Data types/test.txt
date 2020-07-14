@@ -1,5 +1,3 @@
-This is Deep Learning 
 
-This is text being appended to test.txt
-And another line here.
+Big Data is great
 Big Data is great
