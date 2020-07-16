@@ -12,7 +12,7 @@ There are 7 tasks
 2.2) Solve the Python Files Task
 	1- Open a file, name it 'test.txt' and write 'hello world' for 5 times in it then close it.
 	2- Read the contents of the file, then make content in uppercase then write the result again to the file.
-	3- Read the third line of the file then capitalize it then append the result to the file.
+	3- Read the third line of the file then update it to its capital case using capitalize.
 	4- Using With Statement open this file and append 'I Love python' to it.
 
 

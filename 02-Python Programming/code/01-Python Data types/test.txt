@@ -1,3 +1,5 @@
+This is Python. 
 
-Big Data is great
+This is text being appended to test.txt
+And another line here.
 Big Data is great

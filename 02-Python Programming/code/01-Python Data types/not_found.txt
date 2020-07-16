@@ -1,1 +1,8 @@
-I have been created automaticlly
+hello
+iam
+a new
+line
+hello
+I am appending 
+a new line
+Great ^_^
