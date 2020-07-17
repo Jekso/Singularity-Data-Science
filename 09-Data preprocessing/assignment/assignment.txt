@@ -44,3 +44,10 @@ Task 6
 Task 7
 --------------
 1) Using Salaries.csv dataset to generate PCA components that represents 90% of variance of data, and figure out how many components are, and get each component variance value.
+
+
+
+Task 8
+----------
+Using corona.csv apply what you learned in data preprocessing lectures.
+documentation: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset?select=COVID19_line_list_data.csv
