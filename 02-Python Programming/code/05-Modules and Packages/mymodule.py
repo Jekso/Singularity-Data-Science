@@ -3,3 +3,9 @@ def my_greeting(name):
 
 def my_welcome(name):
 	print(f'hi, {name}')
+
+
+
+x = 10
+y = 20.5
+name = "ahmed"
