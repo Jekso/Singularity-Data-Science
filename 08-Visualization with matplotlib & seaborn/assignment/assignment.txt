@@ -1,4 +1,3 @@
-Read 911 Calls dataset documentation from kaggle link : https://www.kaggle.com/mchirico/montcoalert
-and then make an explanatory data analysis 
+Read 50ulke.csv and then make an explanatory data analysis 
 show what valuable information you can extract 
 use all of what you have learned to make a story telling notebook
