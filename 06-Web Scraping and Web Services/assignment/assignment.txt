@@ -1,0 +1,33 @@
+Before anything study HTML & CSS from this playlist
+https://www.youtube.com/playlist?list=PLgGbWId6zgaWZkPFI4Sc9QXDmmOWa1v5F
+and then you can check this link to extend your knowledge
+https://www.w3schools.com/
+
+
+Task 1
+--------------
+Scrap the books(title, price, rate) and put them into a csv file
+http://books.toscrape.com/catalogue/category/books/science_22/index.html
+
+
+
+Task 2
+--------------
+Scrap the USD To EGP Exchange rate from this website
+https://www.exchangerates.org.uk/Dollars-to-Egyptian-Pounds-currency-conversion-page.html
+and then use it to make a software that takes amount of USD Dollars from the user and calculate how much will it cost in EGP.
+
+
+
+Task 3
+------------------
+Get the USD To EUR Exchange rate from this web service
+https://api.ratesapi.io/api/latest?base=USD&symbols=EUR 
+and then use it to make a software that takes amount of USD Dollars from the user and calculate how much will it cost in EUR.
+
+
+
+Task 4
+---------
+Use this web service http://api.weatherstack.com/current?access_key=cce43aa3a3de500cc32c5df0e67c9408&query=Cairo
+and make a program that works for 10 times to get the weather, humidity, visibility, pressure, wind speed and save them in CSV file.

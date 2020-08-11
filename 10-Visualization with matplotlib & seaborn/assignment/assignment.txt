@@ -1,0 +1,3 @@
+Read 50ulke.csv and then make an explanatory data analysis 
+show what valuable information you can extract 
+use all of what you have learned to make a story telling notebook
