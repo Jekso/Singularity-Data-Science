@@ -18,19 +18,20 @@ Task 3
 -------------
 1) Using titanic_full.csv dataset, extract Mr,Miss,Mrs,etc.. from 'Name' column and use it to create new column and call it 'Title', then plot a countplot 
 showing the count for each title in the dataset.
-2) Using sendy_logistics.csv extract user_id in a seperate column
+2) Using sendy_logistics.csv extract user_id in a seperate column.
 
 
 
 Task 4
 ------------
-1) Using visitor-interests.csv dataset, extract Browser, OS, Device data from 'UserAgent' column and use it to create new columns for Browser, OS, Device.
+1) Using visitor-interests.csv dataset, from the first 50 row extract Browser, OS, Device data from 'UserAgent' column and use it to create new columns for Browser, OS, Device.
+2) Using visitor-interests.csv dataset, from the first 50 row extract latitude, longitude from 'IP' column.
 
 
 
 Task 5
 -------------
-1) Using visitor-interests.csv dataset, extract latitude, longitude from 'IP' column and use it to create new 'Dist_From_Egypt' column calculating haversine_distance with Egypt Lat/Lonng, you can get this location from google.
+1) Using visitor-interests.csv dataset, from the first 50 row extract latitude, longitude from 'IP' column and use it to create new 'Dist_From_Egypt' column calculating haversine_distance with Egypt Lat/Lonng, you can get this location from google.
 
 
 
@@ -49,5 +50,11 @@ Task 7
 
 Task 8
 ----------
-Using corona.csv apply what you learned in data preprocessing lectures.
-documentation: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset?select=COVID19_line_list_data.csv
+1) Using black_friday.csv and apply what you learned in data preprocessing lectures.
+2) Using loan_data.csv and apply what you learned in data preprocessing lectures.
+
+
+
+Task 9
+----------
+1) Using loan_data.csv and apply what you learned in feature selection lectures.
