@@ -1,0 +1,12 @@
+1- Study those courses
+	Web course: https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript
+	HTML & CSS: https://www.youtube.com/playlist?list=PLgGbWId6zgaWZkPFI4Sc9QXDmmOWa1v5F
+	Flask: https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH
+	Git & Github: https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF
+2- Choose a problem in your field or any problem that you want from Kaggle that has a pre defined dataset and start work on it using all techniques you learned.
+3- Create a Notebook and implement all what you have learned during the diploma including analysis, visualization, data preprocess, machine learning and finally make a web app and a web service for the project and deploy them on Heroku.
+
+notes
+----------- 
+1- don't forget the notebook must contain full documentation about the project like definition of the problem, what is the data set features, story telling about the analysis and visualization of the data, machine learning models you use and a table containing all accuracy results from used models, and finally provide the URL of the web application and the web service you have deployed on Heroku.
+2- You can get an HTML template from this link: https://colorlib.com/wp/html5-and-css3-login-forms/

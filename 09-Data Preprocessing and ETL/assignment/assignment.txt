@@ -1,0 +1,60 @@
+Task 1 
+----------
+1) Using sendy_logistics.csv dataset create a new column and call it 'Temp_Diff' that calculates the difference of 'Tempreture' Column and current temperture.
+note: you can get current tempreture from searching on google.
+2) Using sendy_logistics.csv dataset create a new column and call it 'Fehr_Temp' that calculates the fahrenheit tempreture from celsius 'Tempreture' Column.
+note: you can get the converting formula celsius to fahrenheit from google. 
+
+
+
+Task 2
+---------
+1) Using ufo.csv dataset, extract Month from 'Time' and use it to create new column and call it 'IN_December', then it will have a value of '1' if the month is December and '0' otherwise.
+2) Using ufo.csv dataset, create new column and call it 'Time_Diff_From_WW1' that have time difference in years from the 'Time' Column and World War 1 start date that is 'July 28, 1914'.
+
+
+
+Task 3
+-------------
+1) Using titanic_full.csv dataset, extract Mr,Miss,Mrs,etc.. from 'Name' column and use it to create new column and call it 'Title', then plot a countplot 
+showing the count for each title in the dataset.
+2) Using sendy_logistics.csv extract user_id in a seperate column.
+
+
+
+Task 4
+------------
+1) Using visitor-interests.csv dataset, from the first 50 row extract Browser, OS, Device data from 'UserAgent' column and use it to create new columns for Browser, OS, Device.
+2) Using visitor-interests.csv dataset, from the first 50 row extract latitude, longitude from 'IP' column.
+
+
+
+Task 5
+-------------
+1) Using visitor-interests.csv dataset, from the first 50 row extract latitude, longitude from 'IP' column and use it to create new 'Dist_From_Egypt' column calculating haversine_distance with Egypt Lat/Lonng, you can get this location from google.
+
+
+
+Task 6
+----------------
+1) Using Restaurant_Reviews.csv dataset extract Bag Of Words CountVectorizer Features.
+2) Using Restaurant_Reviews.csv dataset extract TfidfVectorizer Features.
+
+
+
+Task 7
+--------------
+1) Using Salaries.csv dataset to generate PCA components that represents 90% of variance of data, and figure out how many components are, and get each component variance value.
+
+
+
+Task 8
+----------
+1) Using black_friday.csv and apply what you learned in data preprocessing lectures.
+2) Using loan_data.csv and apply what you learned in data preprocessing lectures.
+
+
+
+Task 9
+----------
+1) Using loan_data.csv and apply what you learned in feature selection lectures.
