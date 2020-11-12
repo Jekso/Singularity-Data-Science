@@ -1,7 +1,12 @@
 There are 7 tasks
 
-1) Create 2 jupyter notebooks and write a code to output the circumference of the circle in one notebook and another for a rectangle.
+1.1) Create 2 jupyter notebooks and write a code to output the circumference of the circle in one notebook and another for a rectangle.
 
+1.2) Make GitHub Repository for submitting assignments containing folder each folder for single assignment for example repo is called Data-Science-Assignments have folder Assignment 1, Assignment 2, etc and each folder have all notebooks solutions.
+
+1.3) Use Conda and pip for those packages
+	1- Use Conda to install a package for speech recognition.
+	2- Use pip to install a package for naturla language processing.
 
 2.1) Solve the Python Data types Task
 	1- Open code Folder.
