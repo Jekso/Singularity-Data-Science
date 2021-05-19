@@ -6,7 +6,7 @@ There are 7 tasks
 
 1.3) Use Conda and pip for those packages
 	1- Use Conda to install a package for speech recognition.
-	2- Use pip to install a package for naturla language processing.
+	2- Use pip to install a package for natural language processing.
 
 2.1) Solve the Python Data types Task
 	1- Open code Folder.
