@@ -31,7 +31,7 @@ Task 4
 
 Task 5
 -------------
-1) Using visitor-interests.csv dataset, from the first 50 row extract latitude, longitude from 'IP' column and use it to create new 'Dist_From_Egypt' column calculating haversine_distance with Egypt Lat/Lonng, you can get this location from google.
+1) Using visitor-interests.csv dataset, from the first 50 row extract latitude, longitude from 'IP' column and use it to create new 'Dist_From_Egypt' column calculating distance with Egypt Lat/Lonng, you can get this location from google.
 
 
 
