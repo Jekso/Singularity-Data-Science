@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Colorlib Templates">
+    <meta name="author" content="Colorlib">
+    <meta name="keywords" content="Colorlib Templates">
+
+    <!-- Title Page-->
+    <title>Au Register Forms by Colorlib</title>
+
+    <!-- Icons font CSS-->
+    <link href="vendor/mdi-font/css/material-design-iconic-font.min.css" rel="stylesheet" media="all">
+    <link href="vendor/font-awesome-4.7/css/font-awesome.min.css" rel="stylesheet" media="all">
+    <!-- Font special for pages-->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+    <!-- Vendor CSS-->
+    <link href="vendor/select2/select2.min.css" rel="stylesheet" media="all">
+    <link href="vendor/datepicker/daterangepicker.css" rel="stylesheet" media="all">
+
+    <!-- Main CSS-->
+    <link href="css/main.css" rel="stylesheet" media="all">
+    
+</head>
+
+<body>
+    <div class="page-wrapper bg-gra-02 p-t-130 p-b-100 font-poppins main-bg">
+        <div class="wrapper wrapper--w680">
+            <div class="card card-4">
+                <div class="card-body">
+                    <h1 class="title"><b>Bike Rental app</b></h1>
+                    <p class="desc">This app for predicting bike rented count on a specific hour.</p>
+                    <br><br>
+                    <form method="POST">
+                        <div class="row row-space">
+                            <div class="col-2">
+                                <div class="input-group">
+                                    <label class="label"><b>Tempreture</b></label>
+                                    <input class="input--style-4" type="number" name="temp">
+                                </div>
+                            </div>
+                            <div class="col-2">
+                                <div class="input-group">
+                                    <label class="label"><b>Humidity</b></label>
+                                    <input class="input--style-4" type="number" name="humidity">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row row-space">
+                            <div class="input-group">
+                                <label class="label"><b>Date time</b></label>
+                                <input class="input--style-4" type="datetime-local" name="datetime">
+                            </div>
+                        </div>
+                        <div class="row row-space">
+                            <div class="col-2">
+                                <div class="input-group">
+                                    <label class="label"><b>Is Rush Hour ?</b></label>
+                                    <div class="p-t-10">
+                                        <label class="radio-container m-r-45">Yes
+                                            <input type="radio" checked="checked" name="is_rush_hour">
+                                            <span class="checkmark"></span>
+                                        </label>
+                                        <label class="radio-container">No
+                                            <input type="radio" name="is_rush_hour">
+                                            <span class="checkmark"></span>
+                                        </label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="input-group">
+                            <label class="label"><b>Season</b></label>
+                            <div class="rs-select2 js-select-simple select--no-search">
+                                <select name="season">
+                                    <option value="winter">Winter</option>
+                                    <option value="spring">Spring</option>
+                                    <option value="summer">Summer</option>
+                                    <option value="fall">Fall</option>
+                                </select>
+                                <div class="select-dropdown"></div>
+                            </div>
+                        </div>
+                        <div class="input-group">
+                            <label class="label"><b>Weather</b></label>
+                            <div class="rs-select2 js-select-simple select--no-search">
+                                <select name="weather">
+                                    <option value="clear">Clear</option>
+                                    <option value="mist">Mist</option>
+                                    <option value="rainy">Rainy</option>
+                                    <option value="snowy">Snowy</option>
+                                </select>
+                                <div class="select-dropdown"></div>
+                            </div>
+                        </div>
+                        <div class="input-group">
+                            <label class="label"><b>Weekday</b></label>
+                            <div class="rs-select2 js-select-simple select--no-search">
+                                <select name="weekday">
+                                    <option value="saturday">Saturday</option>
+                                    <option value="sunday">Sunday</option>
+                                    <option value="monday">Monday</option>
+                                    <option value="tuesday">Tuesday</option>
+                                    <option value="wednesday">Wednesday</option>
+                                    <option value="thursday">Thursday</option>
+                                    <option value="friday">Friday</option>
+                                </select>
+                                <div class="select-dropdown"></div>
+                            </div>
+                        </div>
+                        <div class="input-group">
+                            <label class="label"><b>Period of Day</b></label>
+                            <div class="rs-select2 js-select-simple select--no-search">
+                                <select name="peroid_of_day">
+                                    <option value="morning">Morning</option>
+                                    <option value="afternoon">Afternoon</option>
+                                    <option value="evening">Evening</option>
+                                    <option value="night">Night</option>
+                                </select>
+                                <div class="select-dropdown"></div>
+                            </div>
+                        </div>
+                        <div class="p-t-15">
+                            <button class="btn btn--radius-2 btn--blue" type="submit">Predict Rented Bikes Count</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Jquery JS-->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <!-- Vendor JS-->
+    <script src="vendor/select2/select2.min.js"></script>
+    <script src="vendor/datepicker/moment.min.js"></script>
+    <script src="vendor/datepicker/daterangepicker.js"></script>
+
+    <!-- Main JS-->
+    <script src="js/global.js"></script>
+
+</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+
+</html>
+<!-- end document-->
